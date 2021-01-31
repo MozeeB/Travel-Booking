@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667622731208",
+    "project_id": "dania-travel-fc5bf",
+    "storage_bucket": "dania-travel-fc5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667622731208:android:7b847c579a5f19b55a64fd",
+        "android_client_info": {
+          "package_name": "id.cikup.dania_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667622731208-jbuehle83moa6352raedl55hue2sufrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDConJxm8bTPCSB9X4sGpjegOB-cAUEUZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667622731208-jbuehle83moa6352raedl55hue2sufrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
